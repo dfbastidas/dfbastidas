@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Diego Bastidas
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Diego%20Bastidas!&fontSize=40&fontAlignY=35" />
+</p>
 
 I'm a **Software Engineer** with a strong background in **Backend Development**, particularly with **Symfony and PHP**. Over time, I've expanded my expertise into the world of **DevOps**, where I focus on automation, scalability, and efficient delivery workflows.
 
