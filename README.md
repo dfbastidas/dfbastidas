@@ -2,9 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:3b8d99&height=150&section=header&text=Hi%20there,%20I'm%20Diego%20Bastidas!&fontSize=32&fontColor=ffffff&fontAlign=middle" />
 </p>
 
-I'm a **Software Engineer** with a strong background in **Backend Development**, particularly with **Symfony and PHP**. Over time, I've expanded my expertise into the world of **DevOps**, where I focus on automation, scalability, and efficient delivery workflows.
 
-My journey has led me to work with tools like **Docker**, **Kubernetes** (using **Amazon EKS** and **eksctl**), and cloud platforms like **AWS**. I build and maintain **CI/CD pipelines** using **GitHub Actions** and **Jenkins**, and I use **Bash scripting** to automate and optimize development and deployment processes.
+I'm a **Software Engineer** with a strong background in **Backend Development**, particularly with **Symfony** and **PHP**. Over time, I've expanded my expertise into the world of **DevOps**, where I focus on **automation**, **scalability**, and **efficient delivery** workflows. 
+
+My journey has led me to work with tools like **Docker**, **Kubernetes** (using **Amazon EKS** and **eksctl**), and cloud platforms like **AWS**. I build and maintain **CI/CD pipelines** using **GitHub Actions** and **Jenkins**, and I use **Bash scripting** to automate and optimize **development** and **deployment** processes. 
+
+I also have experience with **SonarQube** for code quality analysis and **Terraform** for infrastructure as code. I enjoy bridging the gap between **development** and **operations**, aiming to deliver clean, maintainable code and reliable **infrastructure**.
+
 
 I enjoy bridging the gap between development and operations, aiming to deliver clean, maintainable code and reliable infrastructure.
 
