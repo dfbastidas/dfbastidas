@@ -28,18 +28,14 @@ I enjoy bridging the gap between development and operations, aiming to deliver c
 
 ### 📬 Let's Connect!
 
-- 📞 WhatsApp: [+57 304 571 1812](https://wa.me/573045711812)  
-- 📧 Email: [diegofernando150@gmail.com](mailto:diegofernando150@gmail.com)  
-- 📸 Instagram: [@dfbastidas](https://www.instagram.com/dfbastidas/)
-
 <div align="center" style="background: #f7f7f7; padding: 16px; border-radius: 8px;">
-  <a href="mailto:diegofernando150@gmail.com" style="margin: 8px;">
+  <a href="mailto:diegofernando150@gmail.com" style="margin: 8px;" target="_blank">
     <img src="https://img.shields.io/badge/Email-diegofernando150@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://wa.me/573045711812" style="margin: 8px;">
+  <a href="https://wa.me/573045711812" style="margin: 8px;" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp" />
   </a>
-  <a href="https://www.instagram.com/dfbastidas/" style="margin: 8px;">
+  <a href="https://www.instagram.com/dfbastidas/" style="margin: 8px;" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40dfbastidas-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </div>
